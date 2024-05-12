@@ -3,10 +3,11 @@ Terminal Portfolio
 Description
 
 Terminal Portfolio is a simple interactive terminal-based portfolio application written in Bash. It provides various commands to view information about the developer, their skills, projects, social contacts, and more.
+![Screenshot_20240512_044737](https://github.com/At0m-txt/Terminal-Portfolio/assets/153441206/3d89f9b2-5577-4758-acf0-28447c31f312)
+![Screenshot_20240512_044845](https://github.com/At0m-txt/Terminal-Portfolio/assets/153441206/73570e95-8687-4223-8a4f-c6cd3c340d5b)
+![Screenshot_20240512_044912](https://github.com/At0m-txt/Terminal-Portfolio/assets/153441206/899030b3-e4a3-4b44-81f9-f0dc1a035fc0)
 
-![Screenshot_20240512_044737](https://github.com/At0m-txt/Terminal-Portfolio/assets/153441206/57eca62e-abef-4bdd-b755-8f068db6dcdf)
-![Screenshot_20240512_044845-1](https://github.com/At0m-txt/Terminal-Portfolio/assets/153441206/298780ec-431a-43bb-880f-3767a204ad56)
-![Screenshot_20240512_044912](https://github.com/At0m-txt/Terminal-Portfolio/assets/153441206/8919a924-5640-4db4-9eac-3ff952427a08)
+
 
 
 Features
