@@ -55,5 +55,3 @@ Available Commands
     projects: View showcased projects with links.
     clear: Clear the terminal screen.
     exit: Exit the terminal portfolio.
-
-!!! This readme file is written by AI I aint writing all this shit.
